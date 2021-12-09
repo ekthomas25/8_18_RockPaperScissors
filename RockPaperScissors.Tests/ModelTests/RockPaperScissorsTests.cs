@@ -121,8 +121,6 @@ namespace RockPaperScissors.Tests
 // P1: Paper - P2: Rock - P1 Wins
 // P1: Rock - P2: Scissors - P1 Wins
 // P1: Scissors - P2: Paper - P1 Wins
-
-
 // P1: Paper - P2: Scissors - P2 Wins
 
 
